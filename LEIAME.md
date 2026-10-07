@@ -1,23 +1,34 @@
-# Oi, me chamo Laís.
+<h1>Oi, me chamo Laís.</h1>
 
-A linguagem com que tenho mais afinidade é Python.
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sobre mim</h2>
 
-## Sobre mim
+<img src="./imagens/sobre-mim.png" width="240" align="left" alt="Erax lendo">
 
-```python
-sobre_mim = {
-    "linguagem": "Python",
-    "estudando": ["Lógica de Programação e Java"],
-    "interesses": ["Cybersegurança"],
-    "objetivo": "quero aprender no ponto de conseguir ensinar outras pessoas",
-}
-```
+No mundo virtual, meus amigos me chamam de Estivus ou Estivinhas. Sou professora de Língua Inglesa, apaixonada por tecnologia e tenho um hiperfoco em gatos e formigas.
 
-## Projetos em desenvolvimento
+A linguagem com que tenho mais afinidade é Python. Aprendi pelo Start by Alura para ensinar programação no itinerário de Exatas do Novo Ensino Médio Paulista.
 
-- **[EM BREVE]** — [ALGUM DIA VAI TER UMA DESCRIÇÃO AQUI]. [Ver código](link)
-- **[EM BREVE]** — [ALGUM DIA VAI TER UMA DESCRIÇÃO AQUI]. [Ver código](link)
+<br clear="left">
 
-## Contato
+---
+
+<h2 align="right">Projetos em desenvolvimento</h2>
+
+<img src="./imagens/projetos.png" width="240" align="right" alt="Erax programando">
+
+- **[EM BREVE]** — Descrição do projeto. [Ver código](link)
+- **[EM BREVE]** — Descrição do projeto. [Ver código](link)
+
+<br clear="right">
+
+---
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contato</h2>
+
+<img src="./imagens/contato.png" width="240" align="left" alt="Erax segurando uma cartinha">
+
+<br><br>
 
 [LinkedIn](https://www.linkedin.com/in/laisqueiroz/) · [E-mail](mailto:contato@codesbyerax.com)
+
+<br clear="left">
